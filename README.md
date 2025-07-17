@@ -1,30 +1,25 @@
-# My Awesome ML Project: Work Category Classifier 🚀
-Prediction of the work category based on the incidence description 
-
+# Machine Learning Project: Work Category Classifier 🚀
+Prediction of the work category based on the incidence description
 # Table of Contents
-1. ### [Project Overview](#project-overview)
+1. #### [Project Overview](#project-overview)
     - [Goal](#goal)
     - [Problem Statement](#problem-statement)
     - [Metrics](#metrics)
     - [Aproach](#approach)
+2. #### [Data](#data-1)
+    - [Data Collection](#data-collection)
+    - [Data Exploration (EDA)](#data-exploration-eda)
+3. #### [Feature Engineering](#feature-engineering-1)
+    - [Data Preprocessing](#data-preprocessing)
+    - [Model Selection](#model-selection)
+    - [Model Training](#model-training)
+    - [Model Evaluation](#model-evaluation)
+    - [Model Deployment](#model-deployment)
+4. #### [Results](#results-1)
+5. #### [Conclusion & Future Work](#conclusion--future-work-1)
+6. #### [Installation](#installation-1)
+7. #### [Usage](#usage-1)
 
-2. ### [Data Collection](#data-collection)
-
-3. ### [Data Exploration (EDA)](#data-exploration-eda)
-
-4. ### [Data Preprocessing](#data-preprocessing)
-
-5. ### [Feature Engineering](#feature-engineering)
-
-6. ### [Model Selection](#model-selection)
-
-7. ### [Model Training](#model-training)
-
-8. ### [Model Evaluation](#model-evaluation)
-
-9. ### [Model Deployment](#model-deployment)
-
-10. ### [Conclusion & Future Work](#conclusion--future-work)
 
 ## Project Overview
 ### Goal
@@ -37,22 +32,32 @@ Cause the number of incidences is different for every categorie (imbalanced clas
 ### Approach
 Supervised learning using a clasification model
 
-## Data Collection
+## Data
 
-## Data Exploration (EDA)
+### Data Collection
 
-## Data Preprocessing
+### Data Exploration (EDA)
 
-## Feature Engineering
+## Methodology
 
-## Model Selection
+### Data Preprocessing
 
-## Model Training
+### Feature Engineering
 
-## Model Evaluation
+### Model Selection
 
-## Model Deployment
+### Model Training
+
+### Model Evaluation
+
+### Model Deployment
+
+## Results
 
 ## Conclusion & Future Work
 Use pretrainned weights to compare.
 Can be use in case an urgency and someone want to know who has to call just saying what's the problem. Use the incidence placement for better accuracy.
+
+## Installation
+
+## Usage
